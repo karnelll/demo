@@ -1,0 +1,6 @@
+INSERT INTO project (title, period, description, tech_stack, repository_url) VALUES
+                                                                                 ('배우다 - 고령층 맞춤형 활동 추천 플랫폼', '2025.03 - 2025.06', '경기대학교 심화 캡스톤 프로젝트', 'React, TypeScript, Zustand', '<https://github.com/KGU-HouseOfChoi/houseofchoi-FE>'),
+                                                                                 ('PinBack - 북마크 저장 서비스', '2025.07', 'SOPT 36기 AppJam 해커톤 프로젝트', 'React, TypeScript, JavaScript', '<https://github.com/Pinback-Team/pinback-client>'),
+                                                                                 ('인터파크 티켓 - 결제페이지 클론', '2025.05', 'SOPT 36기 합동세미나 프로젝트', 'React, TypeScript, vanilla-extract', '<https://github.com/SOPT-all/36-COLLABORATION-WEB-INTERPARK-TICKET>'),
+                                                                                 ('스마트팩토리 - YOLOv8 기반 액정 결함 감지', '2024.07 - 2024.08', 'K-Software Empowerment BootCamp', 'React, JavaScript, Python, YOLOv8', '<https://github.com/KEB-Tech-Titans/tech-titans-web>'),
+                                                                                 ('핏펫 - 반려동물 건강관리 서비스', '2024.10 - 2024.11', 'KUSITMS 30기 프로젝트', 'React, TypeScript, JavaScript', '<https://github.com/KUSITMS-FITPET/KUSITMS-FITPET-Frontend>');
